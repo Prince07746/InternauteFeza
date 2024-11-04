@@ -5,6 +5,8 @@ Give one Give all
 AUTHOR:
 DESIGNED & DEVELOPED by MUKUNDWA FEZA MELISSA
 
+CONTRIBUTOR:
+prince matongo
 
 CREDITS:
 
